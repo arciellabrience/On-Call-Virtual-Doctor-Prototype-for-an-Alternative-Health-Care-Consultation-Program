@@ -1,0 +1,137 @@
+NAME: Dr. John Cruz
+E-MAIL ADDRESS: john.cruz@gmail.com
+SCHEDULE: Saturday 9:00am-10:00am
+PLATFORM: Zoom
+RATE: PHP 300
+
+NAME: Dr. Adrien Chan
+E-MAIL ADDRESS: adrien.chan@gmail.com
+SCHEDULE: Saturday 2:00pm-5:00pm
+PLATFORM: Zoom
+RATE: PHP 600
+
+NAME: Dr. Anna Lopez
+E-MAIL ADDRESS: anna.lopez@gmail.com
+SCHEDULE: Tuesday 8:00pm-9:00pm
+PLATFORM: Zoom
+RATE: PHP 550
+
+NAME: Dr. Geraldine Sy
+E-MAIL ADDRESS: geraldine.sy@gmail.com
+SCHEDULE: Friday 7:00pm-8:00pm
+PLATFORM: Google Meet
+RATE: PHP 450
+
+NAME: Dr. Jennifer Tan
+E-MAIL ADDRESS: jennifer.tan@gmail.com
+SCHEDULE: Saturday 1:00pm-2:00pm
+PLATFORM: Google Meet
+RATE: PHP 400
+
+NAME: Dr. Alexander San Juan
+E-MAIL ADDRESS: alexander.sanjuan@gmail.com
+SCHEDULE: Monday 4:00pm-5:00pm
+PLATFORM: Zoom
+RATE: PHP 550
+
+NAME: Dr. Sally Ong
+E-MAIL ADDRESS: sally.ong@gmail.com
+SCHEDULE: Thursday 1:00pm-2:00pm
+PLATFORM: Google Meet
+RATE: PHP 400
+
+NAME: Dr. Gayle Yap
+E-MAIL ADDRESS: gayle.yap@gmail.com
+SCHEDULE: Tuesday 5:00pm-6:00pm
+PLATFORM: Google Meet
+RATE: PHP 300
+
+NAME: Dr. Charles Ng
+E-MAIL ADDRESS: charles.ng@gmail.com
+SCHEDULE: Thursday 1:00pm-2:00pm
+PLATFORM: Google Meet
+RATE: PHP 350
+
+NAME: Dr. Xander Sales
+E-MAIL ADDRESS: xander.sales@gmail.com
+SCHEDULE: Monday 5:00pm-6:00pm
+PLATFORM: Google Meet
+RATE: PHP 350
+
+NAME: Dr. Ian Villarin
+E-MAIL ADDRESS: ian.villarin@gmail.com
+SCHEDULE: Friday 1:00pm-2:00pm
+PLATFORM: Zoom
+RATE: PHP 600
+
+NAME: Dr. Hillary Mallari
+E-MAIL ADDRESS: hillary.mallari@gmail.com
+SCHEDULE: Sunday 10:00am-11:00am
+PLATFORM: Zoom
+RATE: PHP 400
+
+NAME: Dr. Simon Ang
+E-MAIL ADDRESS: simon.ang@gmail.com
+SCHEDULE: Monday 7:00pm-8:00pm
+PLATFORM: Google Meet
+RATE: PHP 700
+
+NAME: Dr. Andrew Yu
+E-MAIL ADDRESS: andrew.yu@gmail.com
+SCHEDULE: Wednesday 4:00pm-5:00pm
+PLATFORM: Zoom
+RATE: PHP 650
+
+NAME: Dr. Mina Santos
+E-MAIL ADDRESS: mina.santos@gmail.com
+SCHEDULE: Monday 5:00pm-6:00pm
+PLATFORM: Google Meet
+RATE: PHP 300
+
+NAME: Dr. James Young
+E-MAIL ADDRESS: james.young@gmail.com
+SCHEDULE: Saturday 10:00am-11:00am
+PLATFORM: Zoom
+RATE: PHP 450
+
+NAME: Dr. Sadie Co
+E-MAIL ADDRESS: sadie.co@gmail.com
+SCHEDULE: Sunday 9:00am-10:00am
+PLATFORM: Google Meet
+RATE: PHP 700
+
+NAME: Dr. Victoria Mojares
+E-MAIL ADDRESS: victoria.mojares@gmail.com
+SCHEDULE: Monday 3:00pm-4:00pm
+PLATFORM: Google Meet
+RATE: PHP 650
+
+NAME: Dr. Andrew Gomez
+E-MAIL ADDRESS: andrew.gomez@gmail.com
+SCHEDULE: Thursday 5:00pm-6:00pm
+PLATFORM: Zoom
+RATE: PHP 550
+
+NAME: Dr. Alexa Hernandez
+E-MAIL ADDRESS: alexa.hernandez@gmail.com
+SCHEDULE: Monday 5:00pm-6:00pm
+PLATFORM: Google Meet
+RATE: PHP 300
+
+NAME: Dr. Anna Yang
+E-MAIL ADDRESS: anna.yang@gmail.com
+SCHEDULE: Wednesday 3:00pm-4:00pm
+PLATFORM: Zoom
+RATE: PHP 400
+
+NAME: Dr. Stephanie Yu
+E-MAIL ADDRESS: stephanie.yu@gmail.com
+SCHEDULE: Saturday 2:00pm-3:00pm
+PLATFORM: Google Meet
+RATE: PHP 500
+
+NAME: Dr. Justine Reyes
+E-MAIL ADDRESS: justine.reyes@gmail.com
+SCHEDULE: Friday 4:00pm-5:00pm
+PLATFORM: Zoom 
+RATE: PHP 650
