@@ -48,7 +48,7 @@ Shows the insufficient amount of cash input from user, which is then followed by
 ### X. Mental/Emotional Pain
 The second option from the menu offers a slideshow of different illnesses concerning mental and/or emotional pain. It is started the disclaimer once again, then a few examples of mental illnesses along with their symptoms, then a list of healthy ways for possible coping mechanisms, possible prescriptions that may be taken, and ends with a list of local hotlines that the customer could contact directly.
 
-### Authors
+## Authors
 
 #### Arciella Brience C. Crisostomo [arciella_brience_crisostomo@dlsu.edu.ph]
   
